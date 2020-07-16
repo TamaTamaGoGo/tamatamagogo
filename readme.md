@@ -17,6 +17,7 @@ Enjoy!
 
 
 **Code Review - コード評価** 
+
 [![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi/badge)](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi)
 
 **A**->Fine 良い  **B**->Some big issue 大きい問題が少しあります  **C**->Many big issue 大きい問題が多数あります
