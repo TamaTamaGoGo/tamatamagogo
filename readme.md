@@ -1,4 +1,8 @@
-# Status - 状態
+Thanks for comming to my profile page!
+プロフィールページにお越し頂きありがとうございます！
+Enjoy!
+
+# MCRPi Status - MCRPiの状態
 
 [![Forks](https://img.shields.io/github/forks/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi?label=Forks%21&style=social)](https://github.com/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi#status---状態)  
 [![Version](https://img.shields.io/badge/Version-v.1.0-lightgrey)](https://github.com/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi/releases)
@@ -13,7 +17,6 @@
 
 
 **Code Review - コード評価** 
-
-[![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi---minecraft-for-raspberrypi/badge/legacypython)](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi---minecraft-for-raspberrypi/overview/legacypython)
+[![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi/badge)](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi)
 
 **A**->Fine 良い  **B**->Some big issue 大きい問題が少しあります  **C**->Many big issue 大きい問題が多数あります
