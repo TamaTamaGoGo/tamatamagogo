@@ -18,6 +18,6 @@ Enjoy!
 
 **Code Review - コード評価** 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi/badge)](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi)
+[![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi/badge/python-latest)](https://www.codefactor.io/repository/github/tamatamagogo/mcrpi/overview/python-latest)
 
 **A**->Fine 良い  **B**->Some big issue 大きい問題が少しあります  **C**->Many big issue 大きい問題が多数あります
