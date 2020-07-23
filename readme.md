@@ -1,8 +1,10 @@
 Thanks for comming to my profile page!
+
 プロフィールページにお越し頂きありがとうございます！
+
 Enjoy!
 
-# MCRPi Status - MCRPiの状態
+**MCRPi Status - MCRPiの状態**
 
 [![Forks](https://img.shields.io/github/forks/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi?label=Forks%21&style=social)](https://github.com/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi#status---状態)  
 [![Version](https://img.shields.io/badge/Version-v.1.0-lightgrey)](https://github.com/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi/releases)
