@@ -4,6 +4,11 @@ Thanks for comming to my profile page!
 
 Enjoy!
 
+### Contact
+
+#### Mail
+tamatamagogo.githubfeedback@digdig.org
+
 **MCRPi Status - MCRPiの状態**
 
 [![Forks](https://img.shields.io/github/forks/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi?label=Forks%21&style=social)](https://github.com/TamaTamaGoGo/MCRPi---MineCraft-for-RaspberryPi#status---状態)  
