@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![TamaTamaGoGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamatamagogo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamatamagogo&langs_count=8&layout=compact)](https://github.com/tamatamagogo/github-readme-stats)
 ### 主にこのリポジトリを開発してます
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamatamagogo&repo=pi-tools&show_owner=true)](https://github.com/tamatamagogo/pi-tools)
